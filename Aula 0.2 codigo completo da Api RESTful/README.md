@@ -1,4 +1,4 @@
-# Simples Aplicacao com a arquitetura REST, mapeando o ciclo de vida dos objetos.
+# Simples Aplicacao com a tecnologia REST, mapeando o ciclo de vida dos objetos.
 0 - Vamos construir passo a passo uma aplicacao RESTful usando a tecnologia REST com Spring Boot, JPA, FlyWay, MySQL/SQL e testar as requisicoes REST com o POSTMAN.    
 
 1 - Temos um esqueleto já pronto com algumas configuracoes feitas para ganharmos mais tempo com a produtividade lógica da Api, nossa Api é sobre cadastro de Aluno;
